@@ -25,7 +25,7 @@
 
 		<ul>
 			<li>
-				<label class="label_style">날짜</label> <input type="text" id="rdate" name="rdate" class="text" readonly>
+				<label class="label_style">입장권</label> <input type="text" id="rdate" name="rdate" class="text" readonly>
 			</li>
         	<li>
 	        	<label class="label_style">입장권</label>
