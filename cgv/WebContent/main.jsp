@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>CGV-test</title>
+<title>CGV-test123</title>
 <link href="http://localhost:9000/cgv/css/cgv.css" rel="stylesheet">
 </head>
 <body>
